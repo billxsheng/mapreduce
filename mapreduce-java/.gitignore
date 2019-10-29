@@ -1,0 +1,6 @@
+/.idea
+/.settings
+/target
+/.project
+/mapreduce.iml
+/.classpath
